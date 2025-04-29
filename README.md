@@ -2,6 +2,8 @@
 
 Este é um site simples em **PHP** e **Bootstrap** que lista todos os arquivos PDF disponíveis na mesma pasta onde o arquivo `index.php` está localizado. Ele exibe os PDFs em uma lista organizada, com links para abrir cada arquivo em uma nova aba do navegador.
 
+Surgiu da necessidade que o cliente irá acessar este arquivo.
+
 ---
 
 ## ✅ Funcionalidades
